@@ -21,5 +21,5 @@ Your app is ready to be deployed!
 
 ### Deploymentf
 
-This section has moved here: https://imgtestcode.s3.ap-southeast-2.amazonaws.com
+This section has moved here: http://imgtestcode.s3-website-ap-southeast-2.amazonaws.com/
 
