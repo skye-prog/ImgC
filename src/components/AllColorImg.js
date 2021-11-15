@@ -41,7 +41,7 @@ function AllColorImg() {
   return (
     <div
       style={{
-        width: "50%",
+        width: "80%",
         margin: " 40px  auto",
         display: "flex",
         flexWrap: "wrap",
